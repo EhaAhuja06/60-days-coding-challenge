@@ -1,4 +1,4 @@
-#gfg problem sort 0's, 1's and 2's
+//gfg problem sort 0's, 1's and 2's
 void sort012(int arr[], int n) 
 {
     int c0=0, c1=0, c2=0;
